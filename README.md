@@ -1,4 +1,4 @@
-# Airline-Management-System
+# Airline-Service-System
 
 This is a Django project which I have done as a part of the course **CS50’s Web Programming with Python and JavaScript**.
 
